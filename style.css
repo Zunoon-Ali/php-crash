@@ -1,0 +1,7 @@
+.passport-photo {
+    width: 100px; /* Set a fixed width */
+    height: 100px; /* Set a fixed height */
+    object-fit: cover; /* Ensures the image is cropped to fit the box */
+    border-radius: 50%; /* Optional: gives the image a circular shape */
+  }
+  
